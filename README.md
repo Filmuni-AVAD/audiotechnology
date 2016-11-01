@@ -13,6 +13,9 @@ some of the topics.
 
 ## Further resources
 
+The lecture is inspired by the course "Communication Acoustics" given
+by A. Raake and S. Spors at TU Berlin from 2010 until 2015.
+
 You might want to look at the following resources to get a deeper coverage of
 the topic:
 
