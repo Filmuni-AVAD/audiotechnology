@@ -1,5 +1,5 @@
-Audio Technology
-================
+Audiotechnology
+===============
 
 This repository contains slides from the lecture
 [Audio Technology](https://github.com/Filmuni-AVAD/audiotechnology)
